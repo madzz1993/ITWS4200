@@ -1,0 +1,23 @@
+#tweets li{display:none;
+}
+
+html {
+	margin: 80;
+	padding: 30;
+	color: #000000;
+	}
+body { 
+	font: 90% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #0000FF; 
+	background: #fff url(twitterbird.jpg); 
+	background-repeat:repeat-y;
+	margin: 40; 
+	padding: 30;
+	text-align: center;
+	}
+p { 
+	margin-top: 90; 
+	text-align: center;
+	color: #333333;
+	}
